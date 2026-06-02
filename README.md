@@ -12,7 +12,7 @@ The publicly available datasets include simulation sequences and indoor experime
 
 - **sim\_square_walk**: Simulation dataset collected in the Gazebo simulator\. The robot walked along a square trajectory to evaluate the overall localization and mapping accuracy\.
 
-- **Vc_20**: Indoor experimental dataset collected in the motion capture lab\. The robot walked at 20% of its maximum speed, with ground truth provided by the NOKOV motion capture system\.
+- **Vc_25**: Indoor experimental dataset collected in the motion capture lab\. The robot walked at 20% of its maximum speed, with ground truth provided by the NOKOV motion capture system\.
 
 - **Vc_40**: Indoor experimental dataset collected in the motion capture lab\. The robot walked at 40% of its maximum speed, with ground truth provided by the NOKOV motion capture system\.
 
