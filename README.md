@@ -68,7 +68,6 @@ types:       liko/kinect                 [31e69174d512daa8ff27306fe84f8504]
 topics:      /livox/imu      16602 msgs    : sensor_msgs/Imu            
              /livox/lidar      830 msgs    : livox_ros_driver2/CustomMsg
              /robot_motor   146698 msgs    : liko/kinect
-
 ```
 
 ### sensor extrinsic parameters
