@@ -2,7 +2,20 @@
 
 This is a point\-foot biped robot dataset containing leg kinematics \(joint encoders\), IMU and LiDAR data, collected for evaluating kinematic\-LiDAR\-inertial odometry methods for dynamic biped locomotion\.
 
-![Oerview of KLI_Fusion](https://github.com/tanjinqian/KLI_Fusion-Dataset/blob/main/Figs/toc_fig.png)
+![Overview of KLI_Fusion](https://github.com/tanjinqian/KLI_Fusion-Dataset/blob/main/Figs/toc_fig.png)
+
+## Video Demonstration
+
+<p align="center">
+  <a href= https://www.bilibili.com/video/BV15MjB6gEY7/?share_source=copy_web&vd_source=00a2ba59e7f7daa5fe55cf86a821f647">
+    <img src="https://github.com/tanjinqian/KLI_Fusion-Dataset/blob/main/Figs/bilibili_cover.png" 
+         alt="KLI-Fusion Demo Video" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the image to watch the KLI-Fusion demo video on Bilibili.</b>
+</p>
 
 ## Sequence
 
